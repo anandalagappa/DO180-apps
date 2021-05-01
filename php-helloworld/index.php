@@ -1,4 +1,4 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "This is a Spatial Web";
+print "This is a Spatial Web " . PHP_VERSION . "\n";
 ?>
